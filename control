@@ -1,0 +1,9 @@
+Package: com.chr1s.copykey
+Name: CopyKey
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: CopyKey adds a new keyboard button for iPhone X style keyboards to quickly paste text. Or choose your own custom text to paste.
+Maintainer: Chr1s
+Author: Chr1s
+Section: Tweaks
+Depends: mobilesubstrate (>= 0.9.5000), ws.hbang.common (>= 1.15.1)
